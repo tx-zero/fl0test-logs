@@ -1,2 +1,2 @@
 # fl0test-npm-minimal
-test23
+test24
